@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "6455b08106e52df7179308b6"
+  },
+  "nombre": "Mariano",
+  "apellido": "Rivera",
+  "edad": 30,
+  "equipo": [
+    "Yankees"
+  ]
+},{
+  "_id": {
+    "$oid": "6455b08106e52df7179308b7"
+  },
+  "nombre": "Ramiro",
+  "apellido": "Mendoza",
+  "edad": 25,
+  "equipo": [
+    "Yankees"
+  ]
+},{
+  "_id": {
+    "$oid": "6455d2d048d2767c51810ac9"
+  },
+  "nombre": "Mike",
+  "apellido": "Trout",
+  "edad": 30,
+  "equipo": "Angels"
+},{
+  "_id": {
+    "$oid": "6455d2d048d2767c51810acb"
+  },
+  "nombre": "Miguel",
+  "apellido": "Cabrera",
+  "edad": 38,
+  "equipo": "Tigers"
+}]
