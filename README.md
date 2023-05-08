@@ -1,7 +1,6 @@
 # Tarea de la cursada
 
-Hola, **Profesor**. Para ver la tarea de cursada simplemente tendrá que descargar este repositorio para correrlo desde el localhost:3000 con el contenedor que dice practicas docker encendido que es el que tiene la base de datos mongo. No pude meter ambos contenedores juntos o ponerlos a correr ambos desde el docker asi que el mongo corre en el docker y el api corre desde el localhost. 
-
+ **Hola,**. Para ver la tarea de cursada tendrá que descargar este repositorio, crear la base de datos en mongo db con el json que está en la carpeta db sample y correr el api desde una terminal con el comando node server.js. 
 
 # Conexión a la base de datos
 
